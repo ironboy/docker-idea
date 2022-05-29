@@ -1,4 +1,6 @@
-[
+//This is an example of what the file should look like
+
+/* [
   "dev-frontend",
   [
     4001
@@ -7,4 +9,4 @@
   [
     4000
   ]
-]
+] */
