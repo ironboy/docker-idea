@@ -2,9 +2,5 @@
   "dev-frontend",
   [
     4001
-  ],
-  "main-frontend",
-  [
-    4000
   ]
 ]
